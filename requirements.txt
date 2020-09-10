@@ -1,0 +1,6 @@
+tqdm
+requests
+urllib
+time
+re
+configparser
